@@ -10,6 +10,20 @@ repositories {
 }
 
 dependencies {
+
+    implementation 'org.apache.tomcat.embed:tomcat-embed-core:8.5.42'
+    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper:8.5.42'
+
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+    //자바 언어를 이용해서 웹 어플리케이션을 만들겠다는 의미
+    implementation 'javax.servlet:jstl:1.2'
+    //화면을 통해서 프로그래밍을 확인하는데 더 편하기 위해 JSP로 화면 구성
+
+    implementation 'ch.qos.logback:logback-classic:1.2.3'
+    //로그 출력을 위해 로그와 관련된 디펜던시
+
+    //위에 추가해준 것들은 왼쪽 메뉴 External Libraries에 추가된 것을 확인할 수 있음.
+
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
