@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="610c516c-452e-4af3-9499-8c2bdecff07b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../calculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/Courses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/GradeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/PasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/RandomPasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/main/java/org/example/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/CorrectFixedPasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/CourseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/GradeCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/PasswordValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/WrongFixedPasswordGenerator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2akHnJr9E5uqVmS4DTQbBco3nQ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.GradeCalculatorTest.calculateGradeTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jgh/Downloads/fastCampus/project/gradeCalculator&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jgh/Downloads/fastCampus/project/calculator/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="GradeCalculatorTest.calculateGradeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GradeCalculatorTest" />
+      <option name="METHOD_NAME" value="calculateGradeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GradeCalculatorTest.calculateGradeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-26afc3bf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610c516c-452e-4af3-9499-8c2bdecff07b" name="Changes" comment="" />
+      <created>1704855822168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704855822168</updated>
+      <workItem from="1704855823210" duration="170000" />
+      <workItem from="1704856023949" duration="180000" />
+      <workItem from="1704856276678" duration="44000" />
+      <workItem from="1704856332721" duration="109000" />
+      <workItem from="1704856467628" duration="61000" />
+      <workItem from="1704856531118" duration="14000" />
+      <workItem from="1704856609192" duration="42000" />
+      <workItem from="1704856764999" duration="27000" />
+      <workItem from="1704856825084" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Courses.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
