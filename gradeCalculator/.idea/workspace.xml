@@ -124,7 +124,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.calculrateTest">
+  <component name="RunManager" selected="JUnit.GradeCalculatorTest.calculateGradeTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calculator.test" />
       <extension name="coverage">
@@ -206,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradeCalculatorTest.calculateGradeTest" />
         <item itemvalue="JUnit.CalculatorTest.calculrateTest" />
         <item itemvalue="JUnit.CalculatorTest.calculateExceptionTest" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.additonTest" />
-        <item itemvalue="JUnit.GradeCalculatorTest.calculateGradeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +239,7 @@
       <workItem from="1704856609192" duration="42000" />
       <workItem from="1704856764999" duration="27000" />
       <workItem from="1704856825084" duration="22000" />
-      <workItem from="1713236256354" duration="4008000" />
+      <workItem from="1713236256354" duration="7650000" />
     </task>
     <servers />
   </component>
