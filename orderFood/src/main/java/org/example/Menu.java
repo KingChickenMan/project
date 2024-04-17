@@ -1,12 +1,12 @@
 package org.example;
-
+//9
 import java.util.List;
 
 public class Menu {
 
     private final List<MenuItem> menuItems;
 
-    public <E> Menu(List<MenuItem> menuItems) {
+    public Menu(List<MenuItem> menuItems) {
         this.menuItems = menuItems;
     }
 

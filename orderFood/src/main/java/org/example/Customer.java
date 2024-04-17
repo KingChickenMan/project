@@ -1,5 +1,5 @@
 package org.example;
-
+//10
 public class Customer {
     public void order(String menuName, Menu menu, Cooking cooking) {
         MenuItem menuItem = menu.choose(menuName);
